@@ -1,3 +1,5 @@
 .DS_Store
 /myanimelist
 /manipulated_data
+/.ipynb_checkpoints
+/external_data
